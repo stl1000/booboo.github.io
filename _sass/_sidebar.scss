@@ -110,7 +110,7 @@
 
 .author__name {
   margin: 0;
-
+color: pink;
   @include breakpoint($large) {
     color: pink;
     margin-top: 10px;
