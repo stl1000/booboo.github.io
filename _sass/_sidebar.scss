@@ -110,11 +110,11 @@
 
 .author__name {
   margin: 0;
-color: pink;
+  text-align: center;
+
   @include breakpoint($large) {
-    color: pink;
     margin-top: 10px;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
   }
 }
 .sidebar .author__name {
