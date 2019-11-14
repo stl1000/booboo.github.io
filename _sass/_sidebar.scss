@@ -75,6 +75,8 @@
   width: 36px;
   // set width only, for non-square avatars
   // height: 36px;
+  margin-left: auto;
+  margin-right: auto; 
 
   @include breakpoint($large) {
     display: block;
@@ -124,6 +126,7 @@
 
 .author__bio {
   margin: 0;
+  text-align: center;
 
   @include breakpoint($large) {
     margin-top: 10px;
