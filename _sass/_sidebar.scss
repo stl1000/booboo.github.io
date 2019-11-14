@@ -97,7 +97,7 @@
   }
 }
 
-.author__avatar::after {
+.author__avatar img ::after {
    content: '';
    position: absolute;
    width: 100%;
