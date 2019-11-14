@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About me"
+title: "Clay Preusch"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
