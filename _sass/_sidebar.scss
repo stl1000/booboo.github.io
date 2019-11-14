@@ -83,6 +83,8 @@
     width: auto;
     height: auto;
   }
+   
+  
 
   img {
     max-width: 175px;
@@ -90,10 +92,23 @@
 
     @include breakpoint($large) {
       padding: 5px;
-      #border: 1px solid $border-color;
+      border: 1px solid $border-color;
     }
   }
 }
+
+.author__avatar::after {
+   content: '';
+   position: absolute;
+   width: 100%;
+   height: 1px;
+   background: black;
+   top: 100%;
+   left: 0;
+   
+}
+
+
 
 .author__content {
   display: table-cell;
