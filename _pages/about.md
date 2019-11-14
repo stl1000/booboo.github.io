@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Course Overview"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,15 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<b>AP Computer Science Principles</b> is an introductory college-level computing course. Students cultivate their understanding of computer science through working with data, collaborating to solve problems, and developing computer programs as they explore concepts like creativity, abstraction, data and information, algorithms, programming, the internet, and the global impact of computing.
+<b>Intro to Me... </b> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam iaculis interdum sapien, sed volutpat eros tincidunt id. Aenean pharetra ullamcorper magna ac facilisis. Phasellus orci tortor, tempus at ullamcorper quis, lobortis scelerisque metus. Nam quis condimentum lorem, et tempor eros. Etiam congue porta ultrices. Nunc bibendum justo vel libero sagittis iaculis. Cras ut auctor odio. Morbi quis justo imperdiet, dictum libero et, cursus sem. Nunc quis porta est. Suspendisse potenti. Nunc turpis nibh, tincidunt id odio sed, pulvinar posuere eros. Vivamus vulputate mollis felis a dapibus. Suspendisse potenti.
 
-I have created this website as a template to demonstrate how students can easily create portfolios to showcase work for AP CSP. Better yet, students can create QR codes that link to their portfolio pages. Display your students' QR codes in your classroom for easy access. Try it out by holding your phone's camera up to the QR code below:
+Fusce erat ipsum, vestibulum auctor tristique eget, maximus sed tortor. Cras eu libero quis tellus varius posuere in eu lectus. Sed viverra leo in pellentesque placerat. Aliquam pharetra, sem vel semper tempor, augue ipsum hendrerit augue, non ullamcorper quam mi a ex. Mauris a interdum neque.
 
-![Schenk QR Code](/images/frame.png)
-
-<b> Steps </b>
-1. <b>Fork</b> [this repository](https://github.com/CodeCSMB/codecsmb.github.io)  to create the template for your portfolio by clicking the "fork" button in the top right.
-2. Go to the repository's <b>settings</b> (rightmost item in the tabs that start with "Code", should be below "Unwatch"). <b>Rename the repository</b> "[your GitHub username].github.io", which will also be your website's URL.
-3. Set site-wide configuration and create content & metadata by editing <b>_config.yml</b> (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-4. <b>Upload</b> any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+idk maybe an image and a bit more text
 
