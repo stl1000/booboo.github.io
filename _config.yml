@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "CSMB / APCSP"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Clay Preusch"
 description              : &description "TESTSTSTST"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Clay Preusch"
   avatar           : "msapicsquare.jpg"
-  bio              : "To be written later."
+  bio              : #"To be written later."
   location         : "St. Louis, MO"
   employer         : #"High School Student" #put later, in bio
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
