@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "My Portfolio"
+title                    : "stl1000"
 title_separator          : "-"
-name                     : &name "Clay Preusch"
-description              : &description "TESTSTSTST"
+name                     : &name "stl1000"
+description              : &description ""
 url                      : https://stl1000.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "stl1000/stl1000.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Clay Preusch"
+  name             : "stl1000"
   avatar           : "msapicsquare.jpg"
-  bio              : "I'm a super duper hackerman. I like coding and science. reeeeeee!"
+  bio              : "MISSION STATEMENT"
   location         : "St. Louis, MO"
   employer         : #"High School Student" #put later, in bio
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "cdpreusch@gmail.com"
+  email            : "emaline.edson@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,10 +96,10 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ImClay"
+  github           : "stl1000"
   google_plus      :
   keybase          :
-  instagram        : "@ImTheClay"
+  instagram        : "@stl.1000"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : 
