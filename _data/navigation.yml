@@ -1,21 +1,21 @@
 # main links links
 main:
-  - title: "Creativity"
+  - title: "Voter Registration"
     url: /publications/
 
-  - title: "Data"
+  - title: "About"
     url: /talks/    
 
-  - title: "Programming/Algorithms"
+  - title: "U.S. News"
     url: /teaching/    
     
-  - title: "The Internet"
+  - title: "StL News"
     url: /portfolio/
         
-  - title: "Global Impact"
+  - title: "Canidates"
     url: /year-archive/
     
-  - title: "Philosophy"
+  - title: "Contact"
     url: /cv/
     
 #   - title: "Guide"
