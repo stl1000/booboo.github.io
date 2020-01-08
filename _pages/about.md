@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About Me"
+title: "Why Vote?"
+excerpt: "Why Vote?"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,5 +12,4 @@ redirect_from:
 
 Fusce erat ipsum, vestibulum auctor tristique eget, maximus sed tortor. Cras eu libero quis tellus varius posuere in eu lectus. Sed viverra leo in pellentesque placerat. Aliquam pharetra, sem vel semper tempor, augue ipsum hendrerit augue, non ullamcorper quam mi a ex. Mauris a interdum neque.
 
-idk maybe an image and a bit more text
 
