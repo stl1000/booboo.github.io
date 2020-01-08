@@ -11,9 +11,9 @@ title                    : "My Portfolio"
 title_separator          : "-"
 name                     : &name "Clay Preusch"
 description              : &description "TESTSTSTST"
-url                      : https://imclay.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://stl1000.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "imclay/imclay.github.io"
+repository               : "stl1000/stl1000.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 
